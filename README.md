@@ -1,3 +1,6 @@
+
 # fds-marathon-analysis
 
-Analyse marathon dataset.
+
+Install the required dependencies by running on the terminal.
+`pip install -r requirements.txt`
